@@ -22,5 +22,7 @@ typically created for a marketing or advertising campaign.
 
 # Technologies used
 HTML
+
 CSS
+
 Javascript 
