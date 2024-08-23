@@ -25,4 +25,3 @@ HTML
 
 CSS
 
-Javascript 
